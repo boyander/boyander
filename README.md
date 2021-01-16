@@ -2,5 +2,5 @@
   <img src="https://api.brandy.run/core/strip-lateral" width="100%" title="coreof.tech" alt="coreof.tech">
 </a>
 
-👋🏻 <a href="https://coreof.tech/bootcamp/webdev"> Web development bootcamp</a> - <b>Starts 8 February 2021</b> (Remote via streaming. In Spanish)
+👋🏻 <a href="https://coreof.tech/bootcamp/webdev"> Web development bootcamp</a> - <b>Starts 22 February 2021</b> (Remote via streaming. In Spanish)
  

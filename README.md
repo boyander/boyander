@@ -2,7 +2,7 @@
   <img src="https://api.brandy.run/core/strip-lateral" width="100%" title="corecode.school" alt="corecode.school">
 </a>
 
-👋🏻   Hi future developer! Here are our next bootcamp dates:
+👋🏻   Hi future developer! Here are our next bootcamp dates fulltime and part-time:
 
 |  [Cloud Native Web Development](https://www.corecode.school/bootcamp/webdev)  |  [Big Data & Machine Learning](https://www.corecode.school/bootcamp/big-data-machine-learning) |
 | --- | --- |

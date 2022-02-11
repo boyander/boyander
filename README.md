@@ -1,5 +1,5 @@
 <a href="https://www.corecode.school/" target="_blank">
-  <img src="https://api.brandy.run/core/strip-lateral" width="100%" title="corecode.school" alt="corecode.school">
+  <img src="https://api.brandy.run/core/core-logo-wide" width="230" title="corecode.school" alt="corecode.school">
 </a>
 
 👋🏻   Hi future developer! Here are our next bootcamp dates **fulltime and part-time**:

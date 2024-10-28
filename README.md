@@ -3,5 +3,5 @@
 </a>
 
 👋🏻  Hi future developer! This are our course offerings:
-- [Web Development](https://www.corecode.school/bootcamp/webdev)
-- [Big Data & Machine Learning](https://www.corecode.school/bootcamp/big-data-machine-learning)
+- [Web Development Fullstack](https://www.corecode.school/bootcamp/cnwd)
+- [Python, Big Data & Machine Learning](https://www.corecode.school/courses/bdml)
